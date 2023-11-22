@@ -1,7 +1,3 @@
-import java.util.Date
+class Cliente (val nome: String, documento: String, dataNascimento: String) {
 
-class Cliente (nome: String, documento: String, dataNascimento: String) {
-
-
-    val nome: String = nome
 }

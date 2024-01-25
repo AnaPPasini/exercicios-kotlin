@@ -1,3 +1,5 @@
+package poo
+
 interface IConta {
 
     fun sacar (valor: Double): Double

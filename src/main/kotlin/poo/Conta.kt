@@ -1,4 +1,4 @@
-
+package poo
 open class Conta (var id: Double, var agencia: String, var saldo: Double) : IConta {
 
     lateinit var conta: String

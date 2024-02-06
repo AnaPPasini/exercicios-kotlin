@@ -17,7 +17,6 @@ fun solicitar() {
     println("Sua soma é: $soma")
 
 }
-
 fun calcular (a:Int, b: Int): Int {
     return a + b
 }
